@@ -1,0 +1,7 @@
+﻿[submodule "havenox-backend"]
+path = havenox-backend
+url = https://github.com/dronoxonkaspa/havenox-backend.git
+
+[submodule "havenox_site"]
+path = havenox_site
+url = https://github.com/dronoxonkaspa/havenox_site.git
